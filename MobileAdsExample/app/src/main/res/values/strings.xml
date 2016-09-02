@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile Ads Example</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Ad unit ID-->
+    <string name="admob_banner_ad">ca-app-pub-3306270630045532/9042995609</string>
+    <string name="admob_interstitial_ad">ca-app-pub-3306270630045532/1519728802</string>
+    <string name="admob_native_ad">ca-app-pub-3306270630045532/4473195204</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
